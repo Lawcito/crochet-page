@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@theme {
+  --color-wild-strawberry-50: #fee7ef;
+  --color-wild-strawberry-100: #fdcedf;
+  --color-wild-strawberry-200: #fa9ec0;
+  --color-wild-strawberry-300: #f86da0;
+  --color-wild-strawberry-400: #f63c80;
+  --color-wild-strawberry-500: #f40b61;
+  --color-wild-strawberry-600: #c3094d;
+  --color-wild-strawberry-700: #92073a;
+  --color-wild-strawberry-800: #610527;
+  --color-wild-strawberry-900: #310213;
+  --color-wild-strawberry-950: #22020e;
+}
