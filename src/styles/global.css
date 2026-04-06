@@ -1,15 +1,65 @@
 @import "tailwindcss";
 
 @theme {
-  --color-wild-strawberry-50: #fee7ef;
-  --color-wild-strawberry-100: #fdcedf;
-  --color-wild-strawberry-200: #fa9ec0;
-  --color-wild-strawberry-300: #f86da0;
-  --color-wild-strawberry-400: #f63c80;
-  --color-wild-strawberry-500: #f40b61;
-  --color-wild-strawberry-600: #c3094d;
-  --color-wild-strawberry-700: #92073a;
-  --color-wild-strawberry-800: #610527;
-  --color-wild-strawberry-900: #310213;
-  --color-wild-strawberry-950: #22020e;
+ --color-prussian-blue-50: #ebeefa;
+--color-prussian-blue-100: #d6ddf5;
+--color-prussian-blue-200: #adbceb;
+--color-prussian-blue-300: #859ae0;
+--color-prussian-blue-400: #5c78d6;
+--color-prussian-blue-500: #3357cc;
+--color-prussian-blue-600: #2945a3;
+--color-prussian-blue-700: #1f347a;
+--color-prussian-blue-800: #142352;
+--color-prussian-blue-900: #0a1129;
+--color-prussian-blue-950: #070c1d;
+
+--color-deep-navy-50: #e5efff;
+--color-deep-navy-100: #ccdfff;
+--color-deep-navy-200: #99beff;
+--color-deep-navy-300: #669eff;
+--color-deep-navy-400: #337eff;
+--color-deep-navy-500: #005eff;
+--color-deep-navy-600: #004bcc;
+--color-deep-navy-700: #003899;
+--color-deep-navy-800: #002566;
+--color-deep-navy-900: #001333;
+--color-deep-navy-950: #000d24;
+
+--color-yale-blue-50: #e6f3fe;
+--color-yale-blue-100: #cde6fe;
+--color-yale-blue-200: #9ccefc;
+--color-yale-blue-300: #6ab5fb;
+--color-yale-blue-400: #389cfa;
+--color-yale-blue-500: #0684f9;
+--color-yale-blue-600: #0569c7;
+--color-yale-blue-700: #044f95;
+--color-yale-blue-800: #033563;
+--color-yale-blue-900: #011a32;
+--color-yale-blue-950: #011223;
+
+--color-cerulean-50: #e8f8fc;
+--color-cerulean-100: #d1f1fa;
+--color-cerulean-200: #a3e3f5;
+--color-cerulean-300: #75d5f0;
+--color-cerulean-400: #47c7eb;
+--color-cerulean-500: #19b9e6;
+--color-cerulean-600: #1494b8;
+--color-cerulean-700: #0f6f8a;
+--color-cerulean-800: #0a4a5c;
+--color-cerulean-900: #05252e;
+--color-cerulean-950: #041a20;
+
+--color-white-50: #faf0eb;
+--color-white-100: #f5e0d6;
+--color-white-200: #ebc2ad;
+--color-white-300: #e0a385;
+--color-white-400: #d6855c;
+--color-white-500: #cc6633;
+--color-white-600: #a35229;
+--color-white-700: #7a3d1f;
+--color-white-800: #522914;
+--color-white-900: #29140a;
+--color-white-950: #1d0e07;
+
+
 }
