@@ -1,4 +1,5 @@
 ---
+import Navbar from "../components/Navbar";
 import "../styles/global.css";
 ---
 
@@ -10,9 +11,12 @@ import "../styles/global.css";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
-    <title>Astro Basics</title>
+    <title>Selene Crochet</title>
   </head>
   <body>
+    <nav>
+      <Navbar client:load/>
+    </nav>
     <slot />
   </body>
 </html>
